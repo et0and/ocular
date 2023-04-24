@@ -2,7 +2,7 @@
 
 # Ocular
 
-This Python app was a fun experiment to learn more about the uses of the Google Classroom API.
+This Python script was a fun experiment to learn more about the uses of the Google Classroom API.
 
 Upon running, it will load all classes that you (the teacher) are in charge of, and prompts you to enter the course ID and assignment ID. From here, it then displays a list of students and whether they have turned in the assignment or not.
 
